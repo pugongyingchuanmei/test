@@ -2,23 +2,12 @@
 
 欢迎来到星空短视频工作室官方网站
 
-### Markdown
-
-
 
 # 工作室简介
 ## 设计方案
 ### 7x6小时在线客服
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src="C:\peppa pig.png")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
