@@ -7,8 +7,7 @@
 ## 设计方案
 ### 7x6小时在线客服
 
-[Link](url) and ![Image](https://github.com/pugongyingchuanmei/test/blob/main/peppa%20pig.png)
-```
+![图片](https://github.com/pugongyingchuanmei/test/blob/main/peppa pig.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
