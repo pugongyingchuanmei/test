@@ -1,12 +1,10 @@
-## Welcome to XK Short Vedio GZS website!
+## 欢迎来到星空短视频工作室官方网站！
 
-Welcome to the PGYCM offical page!
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欢迎来到星空短视频工作室官方网站
 
 ### Markdown
 
-Welcome to PGYCM offical website!
+
 
 # Header 1
 ## Header 2
